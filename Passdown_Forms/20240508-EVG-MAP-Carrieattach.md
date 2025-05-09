@@ -20,4 +20,6 @@ EVG map 最近有看到一些狀況可參考給大家參考
  
 ## Remark
  
-請參閱附圖（Assets/20240508-EVG-MAP-Images.png）
+ 
+![EVG Map](../Assets/20240508-EVG-MAP-Images.png)
+ 
